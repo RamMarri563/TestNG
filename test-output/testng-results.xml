@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-26T00:11:44 IST" name="Suite" finished-at="2024-09-26T00:11:44 IST" duration-ms="300">
+    <groups>
+    </groups>
+    <test started-at="2024-09-26T00:11:44 IST" name="Test1" finished-at="2024-09-26T00:11:44 IST" duration-ms="82">
+      <class name="Parllel.Testcase1">
+        <test-method signature="testMethod1()[pri:0, instance:Parllel.Testcase1@11392934]" started-at="2024-09-26T00:11:44 IST" name="testMethod1" finished-at="2024-09-26T00:11:44 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method signature="testMethod2()[pri:0, instance:Parllel.Testcase1@11392934]" started-at="2024-09-26T00:11:44 IST" name="testMethod2" finished-at="2024-09-26T00:11:44 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method signature="testMethod3()[pri:0, instance:Parllel.Testcase1@11392934]" started-at="2024-09-26T00:11:44 IST" name="testMethod3" finished-at="2024-09-26T00:11:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method signature="testMethod4()[pri:0, instance:Parllel.Testcase1@11392934]" started-at="2024-09-26T00:11:44 IST" name="testMethod4" finished-at="2024-09-26T00:11:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+        <test-method signature="testMethod5()[pri:0, instance:Parllel.Testcase1@11392934]" started-at="2024-09-26T00:11:44 IST" name="testMethod5" finished-at="2024-09-26T00:11:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod5 -->
+      </class> <!-- Parllel.Testcase1 -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-09-26T00:11:44 IST" name="Test2" finished-at="2024-09-26T00:11:44 IST" duration-ms="35">
+      <class name="Parllel.Testcase2">
+        <test-method signature="testMethod7()[pri:0, instance:Parllel.Testcase2@6440112d]" started-at="2024-09-26T00:11:44 IST" name="testMethod7" finished-at="2024-09-26T00:11:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod7 -->
+        <test-method signature="testMethod8()[pri:0, instance:Parllel.Testcase2@6440112d]" started-at="2024-09-26T00:11:44 IST" name="testMethod8" finished-at="2024-09-26T00:11:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod8 -->
+        <test-method signature="testMethod6()[pri:0, instance:Parllel.Testcase2@6440112d]" started-at="2024-09-26T00:11:44 IST" name="testMethod6" finished-at="2024-09-26T00:11:44 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod6 -->
+      </class> <!-- Parllel.Testcase2 -->
+    </test> <!-- Test2 -->
+    <test started-at="2024-09-26T00:11:44 IST" name="Test3" finished-at="2024-09-26T00:11:44 IST" duration-ms="32">
+      <class name="Parllel.Testcase3">
+        <test-method signature="testMethod10()[pri:0, instance:Parllel.Testcase3@4d1c005e]" started-at="2024-09-26T00:11:44 IST" name="testMethod10" finished-at="2024-09-26T00:11:44 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod10 -->
+        <test-method signature="testMethod11()[pri:0, instance:Parllel.Testcase3@4d1c005e]" started-at="2024-09-26T00:11:44 IST" name="testMethod11" finished-at="2024-09-26T00:11:44 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod11 -->
+        <test-method signature="testMethod9()[pri:0, instance:Parllel.Testcase3@4d1c005e]" started-at="2024-09-26T00:11:44 IST" name="testMethod9" finished-at="2024-09-26T00:11:44 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod9 -->
+      </class> <!-- Parllel.Testcase3 -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>
